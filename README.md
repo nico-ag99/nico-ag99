@@ -13,11 +13,7 @@
 
 ![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico-ag99&show_icons=true&theme=radical)
 
----
 
-## 🌐 How to Reach Me
-- 📧 [nicolas.axgimenez@gmail.com](mailto:nicolas.axgimenez@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicoag99/)
 
 <!---
 nico-ag99/nico-ag99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
